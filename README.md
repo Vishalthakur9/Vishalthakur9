@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishalthakur9
-- 👀 I’m interested in coding...
+- 👀 My interest is in development.
 - 🌱 I’m currently learning python ...
-- 💞️ I’m looking to collaborate on an project...
+- 💞️ I’m looking to collaborate on an project.
 - 📫 How to reach me?
 -  You can contact me on my email id- vishalthakur96399@gmail.com
 
